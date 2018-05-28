@@ -1,0 +1,7 @@
+# idea ignore
+.idea/
+*.iml
+target/
+#.gitignore
+.tmp/
+*.log
